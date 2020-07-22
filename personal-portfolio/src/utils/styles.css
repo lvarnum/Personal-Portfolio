@@ -1,0 +1,44 @@
+body {
+    background-image: url("https://picjumbo.com/wp-content/uploads/white-marble-stone-background-texture-pattern_free_stock_photos_picjumbo_marble_free_stock_photos_picjumbo_com-2210x1473.jpg");
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    padding: 10px
+}
+
+.about, .resources {
+    border-radius: 10px;
+    text-align: center;
+    padding: 30px;
+    margin-top: 30px;
+}
+
+.resources {
+    margin-bottom: 80px;
+}
+
+.profile {
+    border-radius: 100%;
+    width: 200px;
+    height: 220px;
+}
+
+.icon {
+    font-size: 50px;
+}
+
+.link {
+    font-size: 20px;
+}
+
+.project {
+    margin-top: 30px;
+    text-align: center;
+}
+
+.portfolio {
+    margin-bottom: 80px;
+}
