@@ -9,12 +9,8 @@ function Project(props) {
             <div className="card-body bg-dark">
                 <div className="row">
                     <div className="col mb-3">
-                        <a className="link text-white" target="_b" href={repo}><i className="fa fa-github icon mr-3" />{repo}</a>
-                    </div>
-                </div>
-                <div className="row">
-                    <div className="col">
-                        <a className="link text-white" target="_b" href={site}><i className="fa fa-desktop icon mr-3" />{site}</a>
+                        <a className="link text-white mr-3" target="_b" href={repo}><i className="fa fa-github icon repo pr-3" /></a>
+                        <a className="link text-white" target="_b" href={site}><i className="fa fa-desktop icon" /></a>
                     </div>
                 </div>
             </div>

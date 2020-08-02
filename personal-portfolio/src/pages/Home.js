@@ -1,12 +1,12 @@
 import React from "react";
-import { AboutMe, Resources } from "../components";
+import { AboutMe, Intro } from "../components";
 import "../utils/styles.css";
 
 function Home() {
     return (
         <>
+            <Intro />
             <AboutMe />
-            <Resources />
         </>
     )
 }

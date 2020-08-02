@@ -1,5 +1,21 @@
 body {
-    background-image: url("https://picjumbo.com/wp-content/uploads/white-marble-stone-background-texture-pattern_free_stock_photos_picjumbo_marble_free_stock_photos_picjumbo_com-2210x1473.jpg");
+    background-color: aliceblue;
+}
+
+.intro {
+    background-image: url("https://www.pixel4k.com/wp-content/uploads/2018/10/leaves-plant-dark-green-shade-4k_1540574301.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.projects {
+    background-image: url("https://i.pinimg.com/originals/97/39/45/97394508d7c5d109d26f3bd488485086.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+hr {
+    border-top: solid white 2px;
 }
 
 footer {
@@ -9,14 +25,12 @@ footer {
     padding: 10px
 }
 
-.about, .resources, .contact {
-    border-radius: 10px;
+.about {
     text-align: center;
-    padding: 30px;
     margin-top: 30px;
 }
 
-.resources, .contact, .portfolio {
+.portfolio, .about {
     margin-bottom: 80px;
 }
 
@@ -47,4 +61,8 @@ footer {
 
 .btn-success {
     border-radius: 5px;
+}
+
+.repo {
+    border-right: solid 3px;
 }
