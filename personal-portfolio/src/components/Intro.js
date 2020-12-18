@@ -1,5 +1,5 @@
 import React from "react";
-import Resume from "../utils/LaynahResume.pdf";
+import Resume from "../utils/Resume.pdf";
 
 function Intro() {
     return (
