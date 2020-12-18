@@ -3,7 +3,7 @@ import { Project } from "../components";
 import Weather from "../utils/images/weatherDashboard.png";
 import Recipe from "../utils/images/recipeSearch.png";
 import LeadAstray from "../utils/images/leadastray.png";
-import Spiral from "../utils/images/spiral.png";
+import Work from "../utils/images/workDay.png";
 
 function Portfolio() {
     return (
@@ -44,10 +44,10 @@ function Portfolio() {
                     </div>
                     <div className="col">
                         <Project
-                            name="Spiral"
-                            picture={Spiral}
-                            repo="https://github.com/lvarnum/Spiral"
-                            site="https://spiral-planner.herokuapp.com/"
+                            name="Work Day Scheduler"
+                            picture={Work}
+                            repo="https://github.com/lvarnum/Work-Day-Scheduler"
+                            site="https://lvarnum.github.io/Work-Day-Scheduler/"
                         />
                     </div>
                 </div>
