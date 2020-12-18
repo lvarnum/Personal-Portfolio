@@ -1,7 +1,7 @@
 import React from "react";
 
 function Project(props) {
-    const { name, picture, repo, site } = props;
+    const { name, picture, repo, site, description } = props;
     return (
         <div className="card project">
             <h3 className="card-header bg-primary text-white">{name}</h3>
@@ -11,6 +11,7 @@ function Project(props) {
                     <div className="col mb-3">
                         <a className="link text-white mr-3" target="_b" href={repo}><i className="fa fa-github icon repo pr-3" /></a>
                         <a className="link text-white" target="_b" href={site}><i className="fa fa-desktop icon" /></a>
+                        <p className="text-white mt-3 mb-0">{description}</p>
                     </div>
                 </div>
             </div>

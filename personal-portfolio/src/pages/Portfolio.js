@@ -22,6 +22,7 @@ function Portfolio() {
                             picture={Weather}
                             repo="https://github.com/lvarnum/Weather-Dashboard"
                             site="https://lvarnum.github.io/Weather-Dashboard/"
+                            description="HTML - CSS - JavaScript - jQuery - Bootstrap"
                         />
                     </div>
                     <div className="col">
@@ -30,6 +31,7 @@ function Portfolio() {
                             picture={Recipe}
                             repo="https://github.com/lvarnum/Recipe-Search"
                             site="https://lvarnum.github.io/Recipe-Search/"
+                            description="HTML - CSS - JavaScript - jQuery - Bootstrap"
                         />
                     </div>
                 </div>
@@ -40,6 +42,7 @@ function Portfolio() {
                             picture={LeadAstray}
                             repo="https://github.com/lvarnum/Lead-Astray"
                             site="https://frozen-crag-01668.herokuapp.com/"
+                            description="HTML - CSS - JavaScript - Bootstrap - Express - MySQL - AWS"
                         />
                     </div>
                     <div className="col">
@@ -48,6 +51,7 @@ function Portfolio() {
                             picture={Work}
                             repo="https://github.com/lvarnum/Work-Day-Scheduler"
                             site="https://lvarnum.github.io/Work-Day-Scheduler/"
+                            description="HTML - CSS - JavaScript - Bootstrap"
                         />
                     </div>
                 </div>
