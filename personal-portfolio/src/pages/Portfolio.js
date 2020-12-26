@@ -42,7 +42,7 @@ function Portfolio() {
                             picture={LeadAstray}
                             repo="https://github.com/lvarnum/Lead-Astray"
                             site="https://frozen-crag-01668.herokuapp.com/"
-                            description="HTML - CSS - JavaScript - Bootstrap - Express - MySQL - AWS"
+                            description="HTML - CSS - JavaScript - Bootstrap - Express - MySQL - AWS - Passport"
                         />
                     </div>
                     <div className="col">

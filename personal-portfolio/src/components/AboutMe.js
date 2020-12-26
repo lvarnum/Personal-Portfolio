@@ -20,7 +20,8 @@ function AboutMe() {
                         I was born and raised in Tucson, AZ. I am currently studying Computer Science, and
                         have recently completed the University of Arizona's Full Stack Web Development Bootcamp. I enjoy designing and
                         creating applications that can make a difference in people's lives. I have a passion for frontend design, and I
-                        am always excited to pursue new ideas. To view some of my work, visit my <a style={{ textDecoration: "underline" }} href="/portfolio">portfolio page.</a>
+                        am always excited to pursue new ideas. I love to learn and can easily adapt to new situations. 
+                        To view some of my work, visit my <a style={{ textDecoration: "underline" }} href="/portfolio">portfolio page.</a>
                     </p>
                 </div>
             </div>
